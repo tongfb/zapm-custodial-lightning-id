@@ -1,0 +1,6 @@
+// Cloudflare Worker config for the private ZAPM Admin
+{
+  "name": "zapm-admin",
+  "main": "zapm-admin.js",
+  "compatibility_date": "2026-08-24"
+}
