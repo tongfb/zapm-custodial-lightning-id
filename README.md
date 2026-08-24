@@ -4,6 +4,8 @@ ZAPM Custodial Lightning ID is a self-hosted Lightning Address layer for Cloudfl
 
 It lets you keep a stable Lightning Address on your own domain while using a custodial LNURL-pay wallet or provider as the payment backend. The backend can be changed later from a private admin interface without changing the public Lightning Address.
 
+ZAPM does not custody funds itself. Custody remains with the LNURL-pay wallet or provider configured as the backend.
+
 Example:
 
 `username@yourdomain.com`
