@@ -1,0 +1,6 @@
+// Cloudflare Worker config for the public ZAPM LNURL gateway
+{
+  "name": "zapm-lnurl",
+  "main": "zapm-lnurl.js",
+  "compatibility_date": "2026-08-24"
+}
